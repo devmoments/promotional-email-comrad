@@ -4,4 +4,4 @@
 
 #recreated from Good Emails template
 
-https://github.com/devmoments/promotional-email-comrad/blob/main/promotional-email-comrad/images/Comrad%20-layout.png
+![Comrad -layout](https://user-images.githubusercontent.com/108278982/186013255-f8234d0e-a82d-48d4-b70b-cde7d0eaff0b.png)
